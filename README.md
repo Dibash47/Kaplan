@@ -1,4 +1,4 @@
 # Kaplan
 This is my fist Git Repository.
 <BR>
-Author - Dibash
+Author - Dibash Sapkota
